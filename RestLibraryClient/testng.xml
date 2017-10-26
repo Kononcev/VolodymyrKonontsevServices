@@ -1,0 +1,19 @@
+<suite name="Test - Siute" data-provider-thread-count="3">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    </listeners>
+
+    <test name="test web services">
+        <classes>
+            <class name="RestClientLibraryTest"/>
+            <methods>
+                <include name = "getAllBooksTest"/>
+                <include name = "addNewBookTest"/>
+                <include name = "deleteBookTest"/>
+                <include name = "updateBookTest"/>
+                <include name ="getBooksByAuthorTest"/>
+            </methods>
+        </classes>
+    </test>
+</suite>

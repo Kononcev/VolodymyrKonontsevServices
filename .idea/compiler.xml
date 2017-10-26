@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="RestLibraryClient" />
+        <module name="RestLibraryServer" />
+        <module name="SoapLibraryClient" />
+        <module name="SoapLibraryServer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="RestLibraryClient" target="1.8" />
+      <module name="RestLibraryServer" target="1.8" />
+      <module name="SoapLibraryClient" target="1.8" />
+      <module name="SoapLibraryServer" target="1.8" />
+      <module name="VolodymyrKonontsevServices" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

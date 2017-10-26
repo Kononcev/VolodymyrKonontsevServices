@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test web services"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.424">
+  <properties />
+  
+  
+            <testcase name="deleteBookTest" time="0.110" classname="RestClientLibraryTest" />
+                <testcase name="getAllBooksTest" time="1.025" classname="RestClientLibraryTest" />
+                <testcase name="addNewBookTest" time="0.171" classname="RestClientLibraryTest" />
+                <testcase name="updateBookTest" time="0.078" classname="RestClientLibraryTest" />
+                <testcase name="getBooksByAuthorTest" time="0.040" classname="RestClientLibraryTest" />
+      
+</testsuite>

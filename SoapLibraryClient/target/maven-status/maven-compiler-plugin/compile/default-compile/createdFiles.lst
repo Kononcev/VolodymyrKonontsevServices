@@ -1,0 +1,15 @@
+JsonParser.class
+libraryserver\FindBookByNameResponse.class
+libraryserver\GetAllBooksResponse.class
+libraryserver\LibraryServiceImpl.class
+ClientExporter.class
+libraryserver\Book.class
+libraryserver\AddNewBook.class
+libraryserver\Genre.class
+libraryserver\GetAllBooks.class
+Main.class
+libraryserver\LibraryServiceImplService.class
+libraryserver\AddNewBookResponse.class
+libraryserver\ObjectFactory.class
+libraryserver\package-info.class
+libraryserver\FindBookByName.class

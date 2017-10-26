@@ -1,0 +1,22 @@
+2017-10-26 14:51:48  INFO  TestListener:11 - 	Test Started...
+
+2017-10-26 14:51:49  INFO  TestListener:21 - Test method getAllBooksTest started 
+2017-10-26 14:51:49  INFO  SoapLibraryClientTest:24 - GETTING ALL BOOKS
+
+2017-10-26 14:51:49  ERROR TestListener:31 - Test name: getAllBooksTest FAILED
+2017-10-26 14:51:49  INFO  TestListener:21 - Test method addNewBookTest started 
+2017-10-26 14:51:49  INFO  SoapLibraryClientTest:32 - ADDING NEW BOOK:
+
+2017-10-26 14:51:49  INFO  TestListener:26 - Test name: addNewBookTest PASSED
+2017-10-26 14:51:49  INFO  TestListener:21 - Test method deleteBookTest started 
+2017-10-26 14:51:49  INFO  SoapLibraryClientTest:39 - DELETING BOOK BY ID:
+2017-10-26 14:51:49  ERROR TestListener:31 - Test name: deleteBookTest FAILED
+2017-10-26 14:51:49  INFO  TestListener:21 - Test method updateBookTest started 
+2017-10-26 14:51:49  INFO  SoapLibraryClientTest:47 - CHANGE BOOK FROM LIST
+
+2017-10-26 14:51:49  INFO  TestListener:26 - Test name: updateBookTest PASSED
+2017-10-26 14:51:49  INFO  TestListener:21 - Test method getBooksByAuthorTest started 
+2017-10-26 14:51:49  INFO  SoapLibraryClientTest:55 - GETTING BOOKS BY AUTHOR
+
+2017-10-26 14:51:49  INFO  TestListener:26 - Test name: getBooksByAuthorTest PASSED
+2017-10-26 14:51:49  INFO  TestListener:16 - 	Test has END

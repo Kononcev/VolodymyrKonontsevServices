@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: RestClientLibraryTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.612 sec <<< FAILURE!
+getAllBooksTest(RestClientLibraryTest)  Time elapsed: 0.049 sec  <<< FAILURE!
+java.lang.AssertionError: expected [[{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"}]] but found [[{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"},{"author":"King","bookNo":"4","genre":"COMEDY","name":"Jaws"}]]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:134)
+	at org.testng.Assert.assertEquals(Assert.java:115)
+	at org.testng.Assert.assertEquals(Assert.java:189)
+	at org.testng.Assert.assertEquals(Assert.java:199)
+	at RestClientLibraryTest.getAllBooksTest(RestClientLibraryTest.java:20)
+

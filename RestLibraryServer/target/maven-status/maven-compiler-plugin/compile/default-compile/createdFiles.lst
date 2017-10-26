@@ -1,0 +1,4 @@
+com\epam\lab\restserver\LibraryService.class
+dao\BookDAO.class
+model\Book.class
+model\Genre.class

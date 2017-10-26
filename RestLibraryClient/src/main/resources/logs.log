@@ -1,0 +1,95 @@
+2017-10-26 11:52:06  INFO  RestClientLibraryTest:20 - hello
+2017-10-26 12:08:56  INFO  TestListener:11 - 	Test Started...
+
+2017-10-26 12:08:56  INFO  TestListener:21 - Test method addNewBookTest started 
+2017-10-26 12:08:57  INFO  TestListener:26 - Test name: addNewBookTest PASSED
+2017-10-26 12:08:57  INFO  TestListener:21 - Test method deleteBookTest started 
+2017-10-26 12:08:57  ERROR TestListener:31 - Test name: deleteBookTest FAILED
+2017-10-26 12:08:57  INFO  TestListener:21 - Test method getAllBooksTest started 
+2017-10-26 12:08:57  ERROR TestListener:31 - Test name: getAllBooksTest FAILED
+2017-10-26 12:08:57  INFO  TestListener:21 - Test method getBooksByAuthorTest started 
+2017-10-26 12:08:57  INFO  TestListener:26 - Test name: getBooksByAuthorTest PASSED
+2017-10-26 12:08:57  INFO  TestListener:21 - Test method updateBookTest started 
+2017-10-26 12:08:57  INFO  TestListener:26 - Test name: updateBookTest PASSED
+2017-10-26 12:08:57  INFO  TestListener:16 - 	Test has END
+2017-10-26 12:09:48  INFO  TestListener:11 - 	Test Started...
+
+2017-10-26 12:09:48  INFO  TestListener:21 - Test method addNewBookTest started 
+2017-10-26 12:09:48  INFO  TestListener:26 - Test name: addNewBookTest PASSED
+2017-10-26 12:09:48  INFO  TestListener:21 - Test method deleteBookTest started 
+2017-10-26 12:09:48  ERROR TestListener:31 - Test name: deleteBookTest FAILED
+2017-10-26 12:09:48  INFO  TestListener:21 - Test method getAllBooksTest started 
+2017-10-26 12:09:49  ERROR TestListener:31 - Test name: getAllBooksTest FAILED
+2017-10-26 12:09:49  INFO  TestListener:21 - Test method getBooksByAuthorTest started 
+2017-10-26 12:09:49  INFO  TestListener:26 - Test name: getBooksByAuthorTest PASSED
+2017-10-26 12:09:49  INFO  TestListener:21 - Test method updateBookTest started 
+2017-10-26 12:09:49  INFO  TestListener:26 - Test name: updateBookTest PASSED
+2017-10-26 12:09:49  INFO  TestListener:16 - 	Test has END
+2017-10-26 12:10:24  INFO  TestListener:11 - 	Test Started...
+
+2017-10-26 12:10:24  INFO  TestListener:21 - Test method addNewBookTest started 
+2017-10-26 12:10:25  INFO  TestListener:26 - Test name: addNewBookTest PASSED
+2017-10-26 12:10:25  INFO  TestListener:21 - Test method deleteBookTest started 
+2017-10-26 12:10:25  ERROR TestListener:31 - Test name: deleteBookTest FAILED
+2017-10-26 12:10:25  INFO  TestListener:21 - Test method getAllBooksTest started 
+2017-10-26 12:10:25  ERROR TestListener:31 - Test name: getAllBooksTest FAILED
+2017-10-26 12:10:25  INFO  TestListener:21 - Test method getBooksByAuthorTest started 
+2017-10-26 12:10:25  INFO  TestListener:26 - Test name: getBooksByAuthorTest PASSED
+2017-10-26 12:10:25  INFO  TestListener:21 - Test method updateBookTest started 
+2017-10-26 12:10:25  INFO  TestListener:26 - Test name: updateBookTest PASSED
+2017-10-26 12:10:25  INFO  TestListener:16 - 	Test has END
+2017-10-26 12:25:50  INFO  TestListener:11 - 	Test Started...
+
+2017-10-26 12:25:50  INFO  TestListener:21 - Test method getAllBooksTest started 
+2017-10-26 12:25:50  INFO  RestClientLibrary:45 - GETTING ALL BOOKS
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:129 - Output from Server .... 
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"}] 
+
+2017-10-26 12:25:51  INFO  TestListener:26 - Test name: getAllBooksTest PASSED
+2017-10-26 12:25:51  INFO  TestListener:21 - Test method addNewBookTest started 
+2017-10-26 12:25:51  INFO  RestClientLibrary:15 - ADDING NEW BOOK TO LIST: {"bookNo":"4","author":"King","genre":"COMEDY","name":"Jaws"}
+2017-10-26 12:25:51  INFO  RestClientLibrary:33 - Output from Server .... 
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:34 - book has added successful: {"author":"King","bookNo":"4","genre":"COMEDY","name":"Jaws"} 
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:45 - GETTING ALL BOOKS
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:129 - Output from Server .... 
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"},{"author":"King","bookNo":"4","genre":"COMEDY","name":"Jaws"}] 
+
+2017-10-26 12:25:51  INFO  TestListener:26 - Test name: addNewBookTest PASSED
+2017-10-26 12:25:51  INFO  TestListener:21 - Test method deleteBookTest started 
+2017-10-26 12:25:51  INFO  RestClientLibrary:106 - book with id: &s was deleted from resource
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:45 - GETTING ALL BOOKS
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:129 - Output from Server .... 
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"}] 
+
+2017-10-26 12:25:51  INFO  TestListener:26 - Test name: deleteBookTest PASSED
+2017-10-26 12:25:51  INFO  TestListener:21 - Test method updateBookTest started 
+2017-10-26 12:25:51  INFO  RestClientLibrary:63 - CHANGE BOOK FROM LIST: {"bookNo":"3","author":"Doil","genre":"COMEDY","name":"DoilBook"}
+2017-10-26 12:25:51  INFO  RestClientLibrary:79 - Output from Server .... 
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:80 - book was updated successful: {"author":"Doil","bookNo":"3","genre":"COMEDY","name":"DoilBook"} 
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:45 - GETTING ALL BOOKS
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:129 - Output from Server .... 
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Doil","bookNo":"3","genre":"COMEDY","name":"DoilBook"}] 
+
+2017-10-26 12:25:51  INFO  TestListener:26 - Test name: updateBookTest PASSED
+2017-10-26 12:25:51  INFO  TestListener:21 - Test method getBooksByAuthorTest started 
+2017-10-26 12:25:51  INFO  RestClientLibrary:57 - GETTING BOOKS BY AUTHOR
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:129 - Output from Server .... 
+
+2017-10-26 12:25:51  INFO  RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Doil","bookNo":"3","genre":"COMEDY","name":"DoilBook"}] 
+
+2017-10-26 12:25:51  INFO  TestListener:26 - Test name: getBooksByAuthorTest PASSED
+2017-10-26 12:25:51  INFO  TestListener:16 - 	Test has END
