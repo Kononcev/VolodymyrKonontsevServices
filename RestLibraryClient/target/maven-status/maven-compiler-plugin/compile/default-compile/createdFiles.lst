@@ -1,2 +1,6 @@
 Main.class
-ClientInterface.class
+JsonBuilder.class
+client\ClientInterface.class
+commands\Command.class
+commands\AddBookCommand.class
+client\RestClientLibrary.class

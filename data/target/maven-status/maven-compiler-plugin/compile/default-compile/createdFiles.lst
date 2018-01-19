@@ -1,0 +1,4 @@
+builder\BookBuilder.class
+dao\BookDAO.class
+model\Book.class
+model\Genre.class

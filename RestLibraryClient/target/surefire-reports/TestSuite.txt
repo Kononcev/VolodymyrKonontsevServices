@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 5.128 sec <<< FAILURE!
+deleteBookTest(RestClientLibraryTest)  Time elapsed: 2.43 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertTrue(Assert.java:41)
+	at org.testng.Assert.assertTrue(Assert.java:51)
+	at RestClientLibraryTest.deleteBookTest(RestClientLibraryTest.java:36)
+
+getAllBooksTest(RestClientLibraryTest)  Time elapsed: 1.054 sec  <<< FAILURE!
+java.lang.AssertionError: expected [[{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"}]] but found [book list is empty]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:134)
+	at org.testng.Assert.assertEquals(Assert.java:115)
+	at org.testng.Assert.assertEquals(Assert.java:189)
+	at org.testng.Assert.assertEquals(Assert.java:199)
+	at RestClientLibraryTest.getAllBooksTest(RestClientLibraryTest.java:23)
+
+getBooksByAuthorTest(RestClientLibraryTest)  Time elapsed: 1.085 sec  <<< FAILURE!
+java.lang.AssertionError: expected [[{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Doil","bookNo":"3","genre":"COMEDY","name":"DoilBook"}]] but found [book list is empty]
+	at org.testng.Assert.fail(Assert.java:93)
+	at org.testng.Assert.failNotEquals(Assert.java:512)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:134)
+	at org.testng.Assert.assertEquals(Assert.java:115)
+	at org.testng.Assert.assertEquals(Assert.java:189)
+	at org.testng.Assert.assertEquals(Assert.java:199)
+	at RestClientLibraryTest.getBooksByAuthorTest(RestClientLibraryTest.java:50)
+

@@ -1,3 +1,5 @@
+import client.ClientInterface;
+import client.RestClientLibrary;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Listeners;
@@ -21,12 +23,12 @@ public class RestClientLibraryTest {
         Assert.assertEquals(result,expectedList);
     }
 
-    @Test
+    /*@Test
     public void addNewBookTest(){
         String newBook = JsonBuilder.buildBook("King", "4", "COMEDY", "Jaws");
         client.addNewBook(newBook);
         Assert.assertTrue(!client.getAllBooks().equalsIgnoreCase(expectedResult));
-    }
+    }*/
 
     @Test
     public void deleteBookTest(){
@@ -34,12 +36,12 @@ public class RestClientLibraryTest {
         Assert.assertTrue(client.getAllBooks().equalsIgnoreCase(expectedResult));
     }
 
-    @Test
+    /*@Test
     public void updateBookTest(){
        String newBook = JsonBuilder.buildBook("Doil","3","COMEDY", "DoilBook");
        client.changeBook(newBook);
        Assert.assertTrue(!client.getAllBooks().equalsIgnoreCase(expectedResult));
-    }
+    }*/
 
     @Test
     public void getBooksByAuthorTest(){

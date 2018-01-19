@@ -4,9 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RestLibraryClient/RestLibraryClient.iml" filepath="$PROJECT_DIR$/RestLibraryClient/RestLibraryClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/RestLibraryServer/RestLibraryServer.iml" filepath="$PROJECT_DIR$/RestLibraryServer/RestLibraryServer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SoapLibraryClient/SoapLibraryClient.iml" filepath="$PROJECT_DIR$/SoapLibraryClient/SoapLibraryClient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SoapLibraryServer/SoapLibraryServer.iml" filepath="$PROJECT_DIR$/SoapLibraryServer/SoapLibraryServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/VolodymyrKonontsevServices.iml" filepath="$PROJECT_DIR$/VolodymyrKonontsevServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VolodymyrKonontsevServices.iml" filepath="$PROJECT_DIR$/VolodymyrKonontsevServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
     </modules>
   </component>
 </project>

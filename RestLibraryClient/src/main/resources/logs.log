@@ -41,55 +41,116 @@
 2017-10-26 12:25:50  INFO  TestListener:11 - 	Test Started...
 
 2017-10-26 12:25:50  INFO  TestListener:21 - Test method getAllBooksTest started 
-2017-10-26 12:25:50  INFO  RestClientLibrary:45 - GETTING ALL BOOKS
+2017-10-26 12:25:50  INFO  client.RestClientLibrary:45 - GETTING ALL BOOKS
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:129 - Output from Server .... 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:129 - Output from Server ....
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"}] 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"}]
 
 2017-10-26 12:25:51  INFO  TestListener:26 - Test name: getAllBooksTest PASSED
 2017-10-26 12:25:51  INFO  TestListener:21 - Test method addNewBookTest started 
-2017-10-26 12:25:51  INFO  RestClientLibrary:15 - ADDING NEW BOOK TO LIST: {"bookNo":"4","author":"King","genre":"COMEDY","name":"Jaws"}
-2017-10-26 12:25:51  INFO  RestClientLibrary:33 - Output from Server .... 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:15 - ADDING NEW BOOK TO LIST: {"bookNo":"4","author":"King","genre":"COMEDY","name":"Jaws"}
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:33 - Output from Server ....
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:34 - book has added successful: {"author":"King","bookNo":"4","genre":"COMEDY","name":"Jaws"} 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:34 - book has added successful: {"author":"King","bookNo":"4","genre":"COMEDY","name":"Jaws"}
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:45 - GETTING ALL BOOKS
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:45 - GETTING ALL BOOKS
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:129 - Output from Server .... 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:129 - Output from Server ....
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"},{"author":"King","bookNo":"4","genre":"COMEDY","name":"Jaws"}] 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"},{"author":"King","bookNo":"4","genre":"COMEDY","name":"Jaws"}]
 
 2017-10-26 12:25:51  INFO  TestListener:26 - Test name: addNewBookTest PASSED
 2017-10-26 12:25:51  INFO  TestListener:21 - Test method deleteBookTest started 
-2017-10-26 12:25:51  INFO  RestClientLibrary:106 - book with id: &s was deleted from resource
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:106 - book with id: &s was deleted from resource
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:45 - GETTING ALL BOOKS
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:45 - GETTING ALL BOOKS
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:129 - Output from Server .... 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:129 - Output from Server ....
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"}] 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"}]
 
 2017-10-26 12:25:51  INFO  TestListener:26 - Test name: deleteBookTest PASSED
 2017-10-26 12:25:51  INFO  TestListener:21 - Test method updateBookTest started 
-2017-10-26 12:25:51  INFO  RestClientLibrary:63 - CHANGE BOOK FROM LIST: {"bookNo":"3","author":"Doil","genre":"COMEDY","name":"DoilBook"}
-2017-10-26 12:25:51  INFO  RestClientLibrary:79 - Output from Server .... 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:63 - CHANGE BOOK FROM LIST: {"bookNo":"3","author":"Doil","genre":"COMEDY","name":"DoilBook"}
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:79 - Output from Server ....
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:80 - book was updated successful: {"author":"Doil","bookNo":"3","genre":"COMEDY","name":"DoilBook"} 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:80 - book was updated successful: {"author":"Doil","bookNo":"3","genre":"COMEDY","name":"DoilBook"}
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:45 - GETTING ALL BOOKS
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:45 - GETTING ALL BOOKS
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:129 - Output from Server .... 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:129 - Output from Server ....
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Doil","bookNo":"3","genre":"COMEDY","name":"DoilBook"}] 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Doil","bookNo":"3","genre":"COMEDY","name":"DoilBook"}]
 
 2017-10-26 12:25:51  INFO  TestListener:26 - Test name: updateBookTest PASSED
 2017-10-26 12:25:51  INFO  TestListener:21 - Test method getBooksByAuthorTest started 
-2017-10-26 12:25:51  INFO  RestClientLibrary:57 - GETTING BOOKS BY AUTHOR
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:57 - GETTING BOOKS BY AUTHOR
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:129 - Output from Server .... 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:129 - Output from Server ....
 
-2017-10-26 12:25:51  INFO  RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Doil","bookNo":"3","genre":"COMEDY","name":"DoilBook"}] 
+2017-10-26 12:25:51  INFO  client.RestClientLibrary:130 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Doil","bookNo":"3","genre":"COMEDY","name":"DoilBook"}]
 
 2017-10-26 12:25:51  INFO  TestListener:26 - Test name: getBooksByAuthorTest PASSED
 2017-10-26 12:25:51  INFO  TestListener:16 - 	Test has END
+2018-01-16 13:40:57  INFO  client.RestClientLibrary:42 - GETTING ALL BOOKS
+
+2018-01-16 13:40:57  INFO  client.RestClientLibrary:127 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"}]
+
+2018-01-16 16:38:52  INFO  TestListener:11 - 	Test Started...
+
+2018-01-16 16:38:52  INFO  TestListener:21 - Test method deleteBookTest started 
+2018-01-16 16:38:52  INFO  RestClientLibrary:85 - DELETING BOOK BY ID: 4
+
+2018-01-16 16:38:53  INFO  RestClientLibrary:43 - GETTING ALL BOOKS
+
+2018-01-16 16:38:54  ERROR TestListener:31 - Test name: deleteBookTest FAILED
+2018-01-16 16:38:54  INFO  TestListener:21 - Test method getAllBooksTest started 
+2018-01-16 16:38:54  INFO  RestClientLibrary:43 - GETTING ALL BOOKS
+
+2018-01-16 16:38:55  ERROR TestListener:31 - Test name: getAllBooksTest FAILED
+2018-01-16 16:38:55  INFO  TestListener:21 - Test method getBooksByAuthorTest started 
+2018-01-16 16:38:55  INFO  RestClientLibrary:55 - GETTING BOOKS BY AUTHOR
+
+2018-01-16 16:38:56  ERROR TestListener:31 - Test name: getBooksByAuthorTest FAILED
+2018-01-16 16:38:56  INFO  TestListener:16 - 	Test has END
+2018-01-16 16:39:12  INFO  TestListener:11 - 	Test Started...
+
+2018-01-16 16:39:12  INFO  TestListener:21 - Test method deleteBookTest started 
+2018-01-16 16:39:12  INFO  RestClientLibrary:85 - DELETING BOOK BY ID: 4
+
+2018-01-16 16:39:13  INFO  RestClientLibrary:43 - GETTING ALL BOOKS
+
+2018-01-16 16:39:14  ERROR TestListener:31 - Test name: deleteBookTest FAILED
+2018-01-16 16:39:14  INFO  TestListener:21 - Test method getAllBooksTest started 
+2018-01-16 16:39:14  INFO  RestClientLibrary:43 - GETTING ALL BOOKS
+
+2018-01-16 16:39:16  ERROR TestListener:31 - Test name: getAllBooksTest FAILED
+2018-01-16 16:39:16  INFO  TestListener:21 - Test method getBooksByAuthorTest started 
+2018-01-16 16:39:16  INFO  RestClientLibrary:55 - GETTING BOOKS BY AUTHOR
+
+2018-01-16 16:39:17  ERROR TestListener:31 - Test name: getBooksByAuthorTest FAILED
+2018-01-16 16:39:17  INFO  TestListener:16 - 	Test has END
+2018-01-16 16:40:46  INFO  RestClientLibrary:15 - ADDING NEW BOOK TO LIST: model.Book@774cb344
+2018-01-16 16:40:46  INFO  RestClientLibrary:43 - GETTING ALL BOOKS
+
+2018-01-16 16:40:46  INFO  RestClientLibrary:125 - response from server : [{"author":"Doil","bookNo":"1","genre":"ROMANCE","name":"Sherlock"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"}] 
+
+2018-01-16 16:46:56  INFO  RestClientLibrary:19 - ADDING NEW BOOK TO LIST: model.Book@26bf3109
+2018-01-16 16:46:56  INFO  RestClientLibrary:35 - Output from Server .... 
+
+2018-01-16 16:46:56  INFO  RestClientLibrary:36 - book has added successful: {"author":"Vova","bookNo":"1","genre":"HORROR","name":"War"} 
+
+2018-01-16 16:46:56  INFO  RestClientLibrary:47 - GETTING ALL BOOKS
+
+2018-01-16 16:46:56  INFO  RestClientLibrary:129 - response from server : [{"author":"Vova","bookNo":"1","genre":"HORROR","name":"War"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"}] 
+
+2018-01-16 16:47:13  INFO  RestClientLibrary:19 - ADDING NEW BOOK TO LIST: model.Book@1f2eab05
+2018-01-16 16:47:13  INFO  RestClientLibrary:35 - Output from Server .... 
+
+2018-01-16 16:47:13  INFO  RestClientLibrary:36 - book has added successful: {"author":"Vova","bookNo":"4","genre":"HORROR","name":"War"} 
+
+2018-01-16 16:47:13  INFO  RestClientLibrary:47 - GETTING ALL BOOKS
+
+2018-01-16 16:47:14  INFO  RestClientLibrary:129 - response from server : [{"author":"Vova","bookNo":"1","genre":"HORROR","name":"War"},{"author":"Djordan","bookNo":"2","genre":"FANTASY","name":"WheelOfTime"},{"author":"Brown","bookNo":"3","genre":"FANTASY","name":"Inferno"},{"author":"Vova","bookNo":"4","genre":"HORROR","name":"War"}] 
+
