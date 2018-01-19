@@ -2,234 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45a6f84e-3432-4ce2-82f9-20340c9026ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/classes/com/epam/lab/restserver/LibraryService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/aopalliance-repackaged-2.4.0-b10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/asm-3.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/cdi-api-2.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/data-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/guice-3.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/hk2-api-2.4.0-b10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/hk2-locator-2.4.0-b10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/hk2-utils-2.4.0-b10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/jackson-core-asl-1.9.13.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/javassist-3.18.1-GA.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/javax.annotation-api-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/javax.el-api-3.0.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/javax.inject-1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/javax.inject-2.4.0-b10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/javax.interceptor-api-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/javax.json-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/javax.json-api-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/javax.json.bind-api-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/javax.ws.rs-api-2.0.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/jersey-client-2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/jersey-common-2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/jersey-container-servlet-core-2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/jersey-entity-filtering-2.22.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/jersey-guava-2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/jersey-media-jaxb-2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/jersey-media-json-binding-2.26.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/jersey-media-moxy-2.22.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/jersey-server-2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/json-20160810.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/jstl-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/log4j-1.2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/org.eclipse.persistence.asm-2.6.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/org.eclipse.persistence.core-2.6.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/org.eclipse.persistence.moxy-2.6.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/osgi-resource-locator-1.0.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/validation-api-1.1.0.Final.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/lib/yasson-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/target/classes/builder/BookBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/target/classes/model/Book.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/target/data-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryClient/src/main/java/commands/AddBookCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryClient/src/main/java/commands/ClientCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/Command line suite/Command line test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/Command line suite/Command line test.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/TestSuite.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/Command line suite/main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/Command line suite/methods-alphabetical.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/Command line suite/methods.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/Command line suite/testng.xml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RestLibraryServer/target/tomcat/logs/access_log.2018-01-16" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/src/main/java/builder/BookBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/target/classes/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/logs.log" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/classes/ClientInterface.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/classes/JsonBuilder.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/classes/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/classes/RestClientLibrary.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/RestClientLibraryTest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/RestClientLibraryTest/Command line test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/RestClientLibraryTest/Command line test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/TEST-RestClientLibraryTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/RestClientLibraryTest/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/RestClientLibraryTest/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/RestClientLibraryTest/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/RestClientLibraryTest/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryServer/target/RestLibraryServer.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryServer/target/classes/model/Book.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryServer/target/tomcat/logs/access_log.2017-10-25" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RestLibraryServer/target/tomcat/logs/access_log.2017-10-26" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/ClientExporter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/JsonParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/AddNewBook.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/AddNewBookResponse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/Book.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/DeleteBook.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/DeleteBookResponse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/Exception.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/Exception_Exception.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/FindBookById.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/FindBookByIdResponse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/GetAllBooks.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/GetAllBooksResponse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/GetBookByAuthor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/GetBookByAuthorResponse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/LibraryServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/LibraryServiceImplService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/ObjectFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/UpdateBook.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/UpdateBookResponse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/java/libraryserver/package-info.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/resources/logs.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/test/java/SoapLibraryClientTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/test/java/TestListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/SoapLibraryClient-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/ClientExporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/JsonParser.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/AddNewBook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/AddNewBookResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/Book.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/DeleteBook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/DeleteBookResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/Exception.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/Exception_Exception.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/FindBookById.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/FindBookByIdResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/FindBookByName.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/FindBookByNameResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/GetAllBooks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/GetAllBooksResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/GetBookByAuthor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/GetBookByAuthorResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/LibraryServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/LibraryServiceImplService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/ObjectFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/UpdateBook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/UpdateBookResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/libraryserver/package-info.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/classes/logs.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/AddNewBook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/AddNewBookResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/Book.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/DeleteBook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/DeleteBookResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/Exception.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/Exception_Exception.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/FindBookById.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/FindBookByIdResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/Genre.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/GetAllBooks.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/GetAllBooksResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/GetBookByAuthor.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/GetBookByAuthorResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/LibraryServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/LibraryServiceImplService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/ObjectFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/UpdateBook.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/UpdateBookResponse.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/generated-sources/libraryserver/package-info.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/test-classes/SoapLibraryClientTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/test-classes/TestListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/test-output/html/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/test-output/html/overview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/test-output/html/reportng.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/test-output/html/reportng.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/test-output/html/sorttable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/test-output/html/suite1_test1_results.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/test-output/html/suites.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/test-output/xml/SoapLibraryClientTest_results.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryClient/testng.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryServer/src/java/dao/BookDAO.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryServer/src/java/libraryserver/Exporter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryServer/src/java/libraryserver/LibraryService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryServer/src/java/libraryserver/LibraryServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryServer/src/java/model/Book.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryServer/target/SoapLibraryServer-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryServer/target/classes/dao/BookDAO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryServer/target/classes/libraryserver/Exporter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryServer/target/classes/libraryserver/LibraryService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryServer/target/classes/libraryserver/LibraryServiceImpl.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryServer/target/classes/model/Book.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/SoapLibraryServer/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryClient/src/main/java/ClientInterface.java" afterPath="$PROJECT_DIR$/RestLibraryClient/src/main/java/client/ClientInterface.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryClient/src/main/java/RestClientLibrary.java" afterPath="$PROJECT_DIR$/RestLibraryClient/src/main/java/client/RestClientLibrary.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/RestClientLibraryTest/testng-failed.xml" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/Command line suite/testng-failed.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/RestClientLibraryTest/Command line test.properties" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/Command line suite/Command line test.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/RestClientLibraryTest/classes.html" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/Command line suite/classes.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/RestClientLibraryTest/groups.html" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/Command line suite/groups.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/RestClientLibraryTest/index.html" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/Command line suite/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/RestClientLibraryTest/methods-not-run.html" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/Command line suite/methods-not-run.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/RestClientLibraryTest/reporter-output.html" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/Command line suite/reporter-output.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/RestClientLibraryTest/toc.html" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/Command line suite/toc.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryServer/src/main/java/dao/BookDAO.java" afterPath="$PROJECT_DIR$/data/src/main/java/dao/BookDAO.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryServer/src/main/java/model/Book.java" afterPath="$PROJECT_DIR$/data/src/main/java/model/Book.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryServer/src/main/java/model/Genre.java" afterPath="$PROJECT_DIR$/data/src/main/java/model/Genre.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryServer/target/classes/dao/BookDAO.class" afterPath="$PROJECT_DIR$/data/target/classes/dao/BookDAO.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryServer/target/classes/model/Genre.class" afterPath="$PROJECT_DIR$/data/target/classes/model/Genre.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/RestLibraryServer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/data/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SoapLibraryClient/src/main/resources/log4j.properties" afterPath="$PROJECT_DIR$/RestLibraryClient/target/classes/log4j.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SoapLibraryClient/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/data/target/maven-archiver/pom.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/SoapLibraryServer/pom.xml" afterPath="$PROJECT_DIR$/data/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/target/test-classes/RestClientLibraryTest.class" afterPath="$PROJECT_DIR$/RestLibraryClient/target/test-classes/RestClientLibraryTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/pom.xml" afterPath="$PROJECT_DIR$/RestLibraryClient/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/src/main/java/Main.java" afterPath="$PROJECT_DIR$/RestLibraryClient/src/main/java/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/src/main/resources/logs.log" afterPath="$PROJECT_DIR$/RestLibraryClient/src/main/resources/logs.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/src/test/java/RestClientLibraryTest.java" afterPath="$PROJECT_DIR$/RestLibraryClient/src/test/java/RestClientLibraryTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/target/classes/logs.log" afterPath="$PROJECT_DIR$/RestLibraryClient/target/classes/logs.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/RestLibraryClient/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/RestLibraryClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/RestLibraryClient/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/RestLibraryClient/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/junitreports/TEST-RestClientLibraryTest.xml" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/junitreports/TEST-RestClientLibraryTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/old/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/testng-failed.xml" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/testng-failed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/RestLibraryClient/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryServer/pom.xml" afterPath="$PROJECT_DIR$/RestLibraryServer/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryServer/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/RestLibraryServer/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryServer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/RestLibraryServer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RestLibraryServer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/RestLibraryServer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/RestLibraryServer/target/" />
@@ -271,7 +44,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -301,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/src/main/java/model/Book.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="617">
@@ -433,8 +206,8 @@
         <option value="$PROJECT_DIR$/RestLibraryClient/src/main/java/commands/Command.java" />
         <option value="$PROJECT_DIR$/RestLibraryClient/src/main/java/commands/ClientCommand.java" />
         <option value="$PROJECT_DIR$/RestLibraryClient/src/main/java/commands/AddBookCommand.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/RestLibraryClient/src/main/java/client/RestClientLibrary.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1220,14 +993,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RestLibraryClient/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1269,6 +1034,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="617">
           <caret line="57" column="18" lean-forward="false" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>

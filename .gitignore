@@ -2,3 +2,5 @@
 /src/main/resources/logs.log
 /test-output/
 /.gitignore
+/target/
+.idea
